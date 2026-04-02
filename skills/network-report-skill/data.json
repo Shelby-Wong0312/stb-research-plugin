@@ -1,0 +1,858 @@
+{
+  "_comment": "慶豐富實業 許閔琁 人脈網絡報告 JSON 資料格式",
+  "target_name": "許閔琁",
+  "target_name_en": "Min-Hsuan Hsu",
+  "company": "慶豐富實業股份有限公司",
+  "stock_code": "9935",
+  "title": "慶豐富實業董事長",
+  "tagline": "台灣窗簾龍頭二代接班人｜全球居家生活用品領航者",
+  "report_date": "2026-03-31",
+  "personal": {
+    "birth_year": "約1984-1985年",
+    "birth_place": "推測台灣彰化",
+    "age_note": "約41歲",
+    "shareholding": "個人持股：8,997張（5.06%）｜質押率：0%",
+    "investment_interests": "窗簾製造、智能窗簾、電商通路、永續材料（rPET）、AI數據應用",
+    "education": [
+      {
+        "school": "台灣師範大學生物系",
+        "note": "學士"
+      },
+      {
+        "school": "陽明大學生化所",
+        "note": "碩士"
+      }
+    ],
+    "current_positions": [
+      "慶豐富實業董事長"
+    ],
+    "early_career": [
+      "中研院生醫所助理研究員"
+    ],
+    "honors": [],
+    "career_milestones": [
+      {
+        "year": "2000年代初",
+        "event": "台灣師範大學生物系畢業"
+      },
+      {
+        "year": "2000年代中期",
+        "event": "陽明大學生化所碩士畢業"
+      },
+      {
+        "year": "2005-2012年",
+        "event": "中研院生醫所擔任助理研究員"
+      },
+      {
+        "year": "2012-2013年",
+        "event": "27歲放棄學術夢想回家救火，進入慶豐富管理核心"
+      },
+      {
+        "year": "2013-06-24",
+        "event": "初次出任慶豐富董事長（27歲少年董）"
+      },
+      {
+        "year": "2013年",
+        "event": "上任第一件事：說服債權銀行展延9.8億元聯貸案"
+      },
+      {
+        "year": "2013-2019年",
+        "event": "花6年厲行「斷捨離」，清掉轉投資的歷史共業"
+      },
+      {
+        "year": "2014-06-12",
+        "event": "弟弟許竣然任董事，兄弟共同進入公司治理層"
+      },
+      {
+        "year": "2014年",
+        "event": "導入ERP系統，整理公司資訊流；只留窗簾與家飾品本業，砍掉毛毯等非核心事業"
+      },
+      {
+        "year": "2018年",
+        "event": "董事長任期屆滿後續任，接班穩定化"
+      },
+      {
+        "year": "2020年",
+        "event": "下半年營收年成長24.93%，稱霸家具行業"
+      },
+      {
+        "year": "2023年",
+        "event": "接班約9年，帶動毛利率創23%新高"
+      },
+      {
+        "year": "2024-05-28",
+        "event": "股東會後續任董事長，任期至2027/05/27"
+      },
+      {
+        "year": "2024年",
+        "event": "慶豐富50週年，推出3S策略（Safety, Smart, Sustainability）；全年合併營收53.99億元，年增18.73%；稅後淨利4.15億元，年增299.47%，EPS 2.39元"
+      },
+      {
+        "year": "2025年",
+        "event": "擴大美國電商布局，亞特蘭大據點擴產；上半年電商訂單達2024全年70%水準"
+      }
+    ],
+    "philosophy": {
+      "title": "核心經營哲學",
+      "quotes": [
+        "「慶豐富的每一步轉型都是為了貼近消費者需求。」",
+        "「3S：Safety、Smart、Sustainability」",
+        "「現在川普的政策尚不明確，我不敢動，等他很明確了，我就動。」",
+        "「沒有任何一家公司可以單憑己力創新轉型、擴展業務。」"
+      ]
+    },
+    "source": [
+      {
+        "title": "天下雜誌 - 慶豐富董事長專訪",
+        "url": "https://www.cw.com.tw/article/5114820"
+      },
+      {
+        "title": "經濟日報 - 慶豐富韌性供應鏈報導",
+        "url": "https://money.udn.com"
+      },
+      {
+        "title": "鏡週刊 - 3S策略報導",
+        "url": "https://www.mirrormedia.mg"
+      },
+      {
+        "title": "遠見雜誌 - 川普政策觀點專訪",
+        "url": "https://www.gvm.com.tw"
+      },
+      {
+        "title": "商業周刊 - 兄弟分工接班報導",
+        "url": "https://www.businessweekly.com.tw"
+      },
+      {
+        "title": "慶豐富年報",
+        "url": "https://www.qfr.com.tw"
+      }
+    ]
+  },
+  "friend_circles": {
+    "overview_cards": [
+      {
+        "id": 1,
+        "title": "核心圈",
+        "subtitle": "家族接班核心",
+        "people": "許竣然🟢、許培祥🔴、許培勳⚪"
+      },
+      {
+        "id": 2,
+        "title": "企業圈",
+        "subtitle": "董事會與經營團隊",
+        "people": "楊任凱、陳俊仲、楊仁毓、郭秉宸、關旭強"
+      },
+      {
+        "id": 3,
+        "title": "協會與政商圈",
+        "subtitle": "地方政商關係",
+        "people": "王惠美🟢"
+      },
+      {
+        "id": 4,
+        "title": "政策與產業推手圈",
+        "subtitle": "供應鏈與產業夥伴",
+        "people": "林靖霖🟢、台塑🟡"
+      },
+      {
+        "id": 5,
+        "title": "學術校友圈",
+        "subtitle": "台師大/陽明/中研院",
+        "people": "郭秉宸🟢、關旭強🟢"
+      },
+      {
+        "id": 6,
+        "title": "思想與論壇引路人圈",
+        "subtitle": "經營理念啟發者",
+        "people": "自身哲學體系"
+      },
+      {
+        "id": 7,
+        "title": "媒體與公開平台圈",
+        "subtitle": "財經媒體曝光",
+        "people": "天下雜誌、鏡週刊、經濟日報、財訊"
+      },
+      {
+        "id": 8,
+        "title": "必須迴避對象",
+        "subtitle": "⚠️ 高風險名單",
+        "people": "許培祥相關人員、洪誼靜"
+      }
+    ],
+    "core_circle": {
+      "title": "核心圈  家族接班核心",
+      "positive": [
+        {
+          "name": "許竣然",
+          "position": "慶豐富實業總經理暨董事",
+          "relation": "🟢正向",
+          "detail": "親弟弟與最重要事業夥伴，兄弟分工：哥管大方向弟管營運",
+          "source": [
+            {
+              "title": "天下雜誌",
+              "url": "https://www.cw.com.tw/article/5114820"
+            },
+            {
+              "title": "Yahoo股市 - 慶豐富董事改選",
+              "url": "https://tw.stock.yahoo.com/news/慶豐富董事改選"
+            }
+          ]
+        }
+      ],
+      "negative": [
+        {
+          "name": "許培祥",
+          "position": "慶豐富前董事長",
+          "relation": "🔴負向",
+          "detail": "父親，因違反證券交易法（炒股案）被判刑3年6月至7年6月 ❌絕對迴避",
+          "source": [
+            {
+              "title": "自由財經 - 許培祥炒股案判決",
+              "url": "https://ec.ltn.com.tw/article/paper/590261"
+            }
+          ]
+        }
+      ],
+      "source": [
+        {
+          "title": "天下雜誌",
+          "url": "https://www.cw.com.tw/article/5114820"
+        },
+        {
+          "title": "Yahoo股市",
+          "url": "https://tw.stock.yahoo.com"
+        },
+        {
+          "title": "自由財經",
+          "url": "https://ec.ltn.com.tw"
+        }
+      ]
+    },
+    "business_circle": {
+      "title": "企業圈  慶豐富實業董事會與經營團隊",
+      "board": [
+        {
+          "name": "許閔琁",
+          "position": "董事長",
+          "relation": "🟢"
+        },
+        {
+          "name": "許竣然",
+          "position": "總經理暨董事",
+          "relation": "🟢"
+        },
+        {
+          "name": "楊任凱",
+          "position": "吉宬投資有限公司代表人/董事",
+          "relation": "🟡"
+        },
+        {
+          "name": "陳俊仲",
+          "position": "立邦興投資股份有限公司代表人/董事",
+          "relation": "🟡"
+        }
+      ],
+      "independent_directors": [
+        {
+          "name": "楊仁毓",
+          "position": "獨立董事（法學背景）",
+          "relation": "🟢"
+        },
+        {
+          "name": "郭秉宸",
+          "position": "獨立董事（清華大學跨域國際博士學程博士候選人）",
+          "relation": "🟢"
+        },
+        {
+          "name": "關旭強",
+          "position": "獨立董事（清華大學化工博士）",
+          "relation": "🟢"
+        }
+      ],
+      "source": [
+        {
+          "title": "慶豐富公司治理頁面",
+          "url": "https://www.qfr.com.tw"
+        },
+        {
+          "title": "公開資訊觀測站",
+          "url": "https://mops.twse.com.tw"
+        }
+      ]
+    },
+    "association_circle": {
+      "title": "協會與政商圈  地方政商關係",
+      "sections": [
+        {
+          "section_title": "彰化縣政府",
+          "description": "慶豐富總部位於彰化，與地方政府關係良好",
+          "people": [
+            {
+              "name": "王惠美",
+              "position": "彰化縣長",
+              "relation": "🟢正向",
+              "detail": "出席慶豐富50週年活動並公開肯定企業發展",
+              "source": [
+                {
+                  "title": "Yahoo股市 - 慶豐富50週年活動報導",
+                  "url": "https://tw.stock.yahoo.com/news/50年窗簾廠慶豐富"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "source": [
+        {
+          "title": "Yahoo股市",
+          "url": "https://tw.stock.yahoo.com"
+        }
+      ]
+    },
+    "policy_circle": {
+      "title": "政策與產業推手圈  供應鏈與產業夥伴",
+      "people": [
+        {
+          "name": "林靖霖",
+          "position": "丸紅化學品部副部長",
+          "domain": "化學與材料供應",
+          "relation": "🟢正向",
+          "detail": "與慶豐富窗簾供應鏈長期合作，代表上游化學/材料端",
+          "source": [
+            {
+              "title": "天下雜誌",
+              "url": "https://www.cw.com.tw/article/5114820"
+            }
+          ]
+        },
+        {
+          "name": "台塑集團",
+          "position": "石化材料供應商",
+          "domain": "石化與材料",
+          "relation": "🟡中性",
+          "detail": "合作開發寶特瓶rPET材質蜂巢簾環保產品",
+          "source": [
+            {
+              "title": "天下雜誌",
+              "url": "https://www.cw.com.tw/article/5114820"
+            }
+          ]
+        }
+      ],
+      "source": [
+        {
+          "title": "天下雜誌",
+          "url": "https://www.cw.com.tw/article/5114820"
+        }
+      ]
+    },
+    "academic_circle": {
+      "title": "學術校友圈  台灣師範大學、陽明大學、中研院",
+      "education_bg": [
+        "台灣師範大學生物系（學士）",
+        "陽明大學生化所（碩士）",
+        "中研院生醫所（助理研究員）"
+      ],
+      "school_contribution": [],
+      "alumni": [
+        {
+          "name": "郭秉宸",
+          "position": "獨立董事/清華大學跨域國際博士學程博士候選人",
+          "relation": "🟢正向",
+          "detail": "擔任慶豐富獨立董事參與公司治理"
+        },
+        {
+          "name": "關旭強",
+          "position": "獨立董事/清華大學化工博士",
+          "relation": "🟢正向",
+          "detail": "擔任慶豐富獨立董事參與公司治理"
+        }
+      ],
+      "extra_note": "許閔琁原有學術志向，曾於中研院生醫所任職，後因家族企業危機放棄學術路",
+      "source": [
+        {
+          "title": "天下雜誌",
+          "url": "https://www.cw.com.tw/article/5114820"
+        }
+      ]
+    },
+    "thought_leaders": {
+      "title": "思想與論壇引路人圈  經營理念與啟發者",
+      "people": [],
+      "quotes": [
+        "「慶豐富的每一步轉型都是為了貼近消費者需求。」",
+        "「3S：Safety、Smart、Sustainability」",
+        "「現在川普的政策尚不明確，我不敢動，等他很明確了，我就動。」",
+        "「沒有任何一家公司可以單憑己力創新轉型、擴展業務。」"
+      ],
+      "source": [
+        {
+          "title": "經濟日報專訪",
+          "url": "https://money.udn.com"
+        },
+        {
+          "title": "鏡週刊報導",
+          "url": "https://www.mirrormedia.mg"
+        },
+        {
+          "title": "遠見雜誌",
+          "url": "https://www.gvm.com.tw"
+        },
+        {
+          "title": "商業周刊",
+          "url": "https://www.businessweekly.com.tw"
+        }
+      ]
+    },
+    "media_circle": {
+      "title": "媒體與公開平台圈  重要曝光與訴訟",
+      "positive_events": [
+        {
+          "time": "2020年",
+          "media": "天下雜誌",
+          "nature": "🟢正面",
+          "summary": "報導慶豐富下半年營收年增24.93%，稱霸家具行業",
+          "source": [
+            {
+              "title": "天下雜誌",
+              "url": "https://www.cw.com.tw"
+            }
+          ]
+        },
+        {
+          "time": "2023年",
+          "media": "天下雜誌",
+          "nature": "🟢正面",
+          "summary": "報導接班9年帶動毛利率創23%新高",
+          "source": [
+            {
+              "title": "天下雜誌",
+              "url": "https://www.cw.com.tw"
+            }
+          ]
+        },
+        {
+          "time": "2024年",
+          "media": "經濟日報",
+          "nature": "🟢正面",
+          "summary": "報導韌性供應鏈與三路布局策略",
+          "source": [
+            {
+              "title": "經濟日報",
+              "url": "https://money.udn.com"
+            }
+          ]
+        },
+        {
+          "time": "2024年",
+          "media": "鏡週刊",
+          "nature": "🟢正面",
+          "summary": "報導3S策略領航全球窗簾市場",
+          "source": [
+            {
+              "title": "鏡週刊",
+              "url": "https://www.mirrormedia.mg"
+            }
+          ]
+        },
+        {
+          "time": "2024年",
+          "media": "財訊",
+          "nature": "🟢正面",
+          "summary": "報導兄弟分工接班家族治理穩定",
+          "source": [
+            {
+              "title": "財訊",
+              "url": "https://www.wealth.com.tw"
+            }
+          ]
+        },
+        {
+          "time": "2025年",
+          "media": "各媒體",
+          "nature": "🟢正面",
+          "summary": "報導擴張美國電商與亞特蘭大產能",
+          "source": []
+        }
+      ],
+      "negative_events": [
+        {
+          "time": "2012年",
+          "media": "自由時報",
+          "nature": "🔴負面",
+          "summary": "前董事長許培祥等5人因炒股案被判刑",
+          "source": [
+            {
+              "title": "自由財經",
+              "url": "https://ec.ltn.com.tw/article/paper/590261"
+            }
+          ]
+        },
+        {
+          "time": "2018年",
+          "media": "公開資訊觀測站",
+          "nature": "🔴負面",
+          "summary": "公司公告前任董事長違反證券交易法起訴說明",
+          "source": [
+            {
+              "title": "公開資訊觀測站",
+              "url": "https://mops.twse.com.tw"
+            }
+          ]
+        },
+        {
+          "time": "2023年",
+          "media": "勞動部",
+          "nature": "🔴負面",
+          "summary": "被罰2萬元（特別休假工資問題）",
+          "source": [
+            {
+              "title": "勞動部",
+              "url": "https://www.mol.gov.tw"
+            }
+          ]
+        },
+        {
+          "time": "2021年",
+          "media": "勞動部",
+          "nature": "🔴負面",
+          "summary": "被罰5千元（勞退申報問題）",
+          "source": [
+            {
+              "title": "勞動部",
+              "url": "https://www.mol.gov.tw"
+            }
+          ]
+        }
+      ],
+      "source": [
+        {
+          "title": "天下雜誌",
+          "url": "https://www.cw.com.tw"
+        },
+        {
+          "title": "經濟日報",
+          "url": "https://money.udn.com"
+        },
+        {
+          "title": "鏡週刊",
+          "url": "https://www.mirrormedia.mg"
+        },
+        {
+          "title": "財訊",
+          "url": "https://www.wealth.com.tw"
+        },
+        {
+          "title": "自由時報",
+          "url": "https://news.ltn.com.tw"
+        },
+        {
+          "title": "自由財經",
+          "url": "https://ec.ltn.com.tw"
+        }
+      ]
+    },
+    "avoidance": {
+      "title": "必須迴避對象與引薦建議",
+      "avoid_list": [
+        {
+          "name": "許培祥及相關人員",
+          "position": "慶豐富前董事長",
+          "reason": "因違反證券交易法（炒股案）被判刑，高風險司法案件"
+        },
+        {
+          "name": "洪誼靜",
+          "position": "炒股案共犯",
+          "reason": "同案被判刑"
+        }
+      ],
+      "recommend_list": [
+        {
+          "name": "許竣然",
+          "position": "慶豐富總經理暨董事",
+          "method": "透過產業活動或法說會接觸"
+        },
+        {
+          "name": "楊任凱/陳俊仲",
+          "position": "法人董事代表",
+          "method": "透過投資法人管道接觸"
+        },
+        {
+          "name": "王惠美",
+          "position": "彰化縣長",
+          "method": "透過地方政商活動或慶豐富企業活動"
+        }
+      ],
+      "source": [
+        {
+          "title": "自由財經",
+          "url": "https://ec.ltn.com.tw/article/paper/590261"
+        }
+      ]
+    }
+  },
+  "family": {
+    "family_tree_image_path": null,
+    "members_detail": [
+      {
+        "slide_title": "核心成員介紹 - 父親",
+        "profiles": [
+          {
+            "subtitle": "許培祥（父親）",
+            "table_data": [
+              [
+                "姓名",
+                "許培祥"
+              ],
+              [
+                "關係",
+                "父親（許閔琁之父）"
+              ],
+              [
+                "職位",
+                "慶豐富前董事長"
+              ],
+              [
+                "現況",
+                "因違反證券交易法（炒股案）被判刑3年6月至7年6月，已卸任"
+              ]
+            ],
+            "achievements": [],
+            "notes": "高風險司法案件，應絕對迴避"
+          }
+        ],
+        "source": [
+          {
+            "title": "自由財經",
+            "url": "https://ec.ltn.com.tw/article/paper/590261"
+          }
+        ]
+      },
+      {
+        "slide_title": "核心成員介紹 - 叔父",
+        "profiles": [
+          {
+            "subtitle": "許培勳（叔父/創辦人之一）",
+            "table_data": [
+              [
+                "姓名",
+                "許培勳"
+              ],
+              [
+                "關係",
+                "叔父/創辦人之一"
+              ],
+              [
+                "職位",
+                "慶豐富創辦人"
+              ],
+              [
+                "現況",
+                "與許培祥並列為創辦昆仲"
+              ]
+            ],
+            "achievements": [
+              "慶豐富創辦人，奠定企業基礎"
+            ]
+          }
+        ],
+        "source": [
+          {
+            "title": "慶豐富公司網站",
+            "url": "https://www.qfr.com.tw"
+          }
+        ]
+      },
+      {
+        "slide_title": "核心成員介紹 - 弟弟",
+        "profiles": [
+          {
+            "subtitle": "許竣然（弟弟）",
+            "table_data": [
+              [
+                "姓名",
+                "許竣然"
+              ],
+              [
+                "關係",
+                "弟弟"
+              ],
+              [
+                "職位",
+                "慶豐富總經理暨董事"
+              ],
+              [
+                "任職時間",
+                "2014年起任董事"
+              ],
+              [
+                "職責分工",
+                "管理營運面，與許閔琁（哥哥）分工協力"
+              ]
+            ],
+            "achievements": [
+              "與兄長共同接班，協力推動公司轉型升級",
+              "主導日常營運管理，支撐3S策略執行"
+            ]
+          }
+        ],
+        "source": [
+          {
+            "title": "天下雜誌",
+            "url": "https://www.cw.com.tw/article/5114820"
+          },
+          {
+            "title": "Yahoo股市 - 慶豐富董事改選",
+            "url": "https://tw.stock.yahoo.com/news/慶豐富董事改選"
+          }
+        ]
+      }
+    ],
+    "business_map": {
+      "title": "家族企業版圖",
+      "family_roles": [
+        {
+          "member": "許閔琁",
+          "relation": "本人",
+          "position": "董事長",
+          "involvement": "核心領導/策略方向"
+        },
+        {
+          "member": "許竣然",
+          "relation": "弟弟",
+          "position": "總經理暨董事",
+          "involvement": "營運管理"
+        },
+        {
+          "member": "許培祥",
+          "relation": "父親",
+          "position": "前董事長（已卸任）",
+          "involvement": "已退出"
+        }
+      ],
+      "investment_companies": [
+        {
+          "company": "吉宬投資有限公司",
+          "representative": "楊任凱",
+          "note": "法人董事"
+        },
+        {
+          "company": "立邦興投資股份有限公司",
+          "representative": "陳俊仲",
+          "note": "法人董事/持股2.30%"
+        },
+        {
+          "company": "百昱投資",
+          "representative": "N/A",
+          "note": "家族關聯持股1.83%"
+        }
+      ],
+      "source": [
+        {
+          "title": "慶豐富年報",
+          "url": "https://www.qfr.com.tw"
+        },
+        {
+          "title": "公開資訊觀測站",
+          "url": "https://mops.twse.com.tw"
+        },
+        {
+          "title": "天下雜誌",
+          "url": "https://www.cw.com.tw/article/5114820"
+        }
+      ]
+    },
+    "tree_data": [
+      {
+        "generation": "G0",
+        "members": [
+          {
+            "name": "許培祥",
+            "relation": "父親",
+            "title": "慶豐富前董事長（已判刑）",
+            "gender": "M"
+          },
+          {
+            "name": "許培勳",
+            "relation": "叔父/創辦人之一",
+            "title": "慶豐富創辦人",
+            "gender": "M"
+          }
+        ]
+      },
+      {
+        "generation": "G1",
+        "members": [
+          {
+            "name": "許閔琁",
+            "relation": "本人",
+            "title": "慶豐富董事長",
+            "gender": "M"
+          },
+          {
+            "name": "許竣然",
+            "relation": "弟弟",
+            "title": "慶豐富總經理暨董事",
+            "gender": "M"
+          }
+        ]
+      },
+      {
+        "generation": "G2",
+        "members": []
+      }
+    ]
+  },
+  "summary": {
+    "title": "許閔琁與慶豐富實業 - 人脈網絡與企業版圖總覽",
+    "positive": [
+      "27歲臨危受命接班，展現卓越危機處理能力，成功展延9.8億聯貸",
+      "花6年斷捨離清理歷史共業，聚焦本業窗簾製造",
+      "帶動毛利率突破23%新高，2024年EPS成長近3倍",
+      "佈局全球供應鏈（台灣37%、越南52%、美國亞特蘭大），有效分散關稅風險",
+      "推動3S策略（Safety、Smart、Sustainability）引領產業轉型升級"
+    ],
+    "risks": [
+      "父親許培祥炒股案判刑記錄，家族聲譽風險仍存",
+      "高度依賴美國市場，川普關稅政策不確定性",
+      "家族資訊透明度偏低，四親等以外資訊難以查證",
+      "勞動法規遵循曾有瑕疵（2021、2023年裁罰紀錄）",
+      "營收百億目標激進，需觀察執行力與資本支出"
+    ],
+    "tracking": [
+      "美國電商通路擴張進度與亞特蘭大產能擴增時程",
+      "2025-2028年營收百億目標達成進度",
+      "智能窗簾與rPET永續產品市場接受度",
+      "董事會組成變動與獨董專業度",
+      "家族持股結構變化與法人董事代表異動"
+    ],
+    "conclusion": "許閔琁家族展現台灣傳產二代接班人逆境重生的典型案例。27歲臨危受命，花6年清理歷史共業，再花6年將毛利推至新高。全球供應鏈布局完整，3S策略方向清晰，但需留意家族過往司法風險對授信與聲譽的潛在影響，以及美國市場集中度偏高的經營風險。",
+    "source": [
+      {
+        "title": "天下雜誌",
+        "url": "https://www.cw.com.tw/article/5114820"
+      },
+      {
+        "title": "經濟日報",
+        "url": "https://money.udn.com"
+      },
+      {
+        "title": "鏡週刊",
+        "url": "https://www.mirrormedia.mg"
+      },
+      {
+        "title": "財訊",
+        "url": "https://www.wealth.com.tw"
+      },
+      {
+        "title": "自由財經",
+        "url": "https://ec.ltn.com.tw"
+      },
+      {
+        "title": "慶豐富年報",
+        "url": "https://www.qfr.com.tw"
+      }
+    ]
+  },
+  "_source_format_note": "來源可以是字串(舊格式)或陣列(新格式): [{\"title\":\"文章標題\",\"url\":\"https://...\"}]"
+}

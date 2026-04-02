@@ -1,0 +1,400 @@
+{
+  "_comment": "人脈網絡報告 JSON 資料格式定義",
+  "target_name": "葉寅夫",
+  "target_name_en": "Yin-Fu Yeh",
+  "company": "億光電子",
+  "stock_code": "2393",
+  "title": "億光電子董事長兼總經理",
+  "tagline": "台灣LED教父 ｜ 全球第五大LED封裝廠",
+  "report_date": "2026-03-30",
+  "personal": {
+    "birth_year": "1951年",
+    "birth_place": "苗栗縣苑裡鎮",
+    "age_note": "74歲",
+    "shareholding": "個人持股：14,169張（3.20%）｜質押率：0%",
+    "investment_interests": "LED、不可見光/穿戴裝置、碳化矽（SiC）第三代半導體、矽光子、太陽能",
+    "education": [
+      {
+        "school": "台北工專電子科",
+        "note": "1972年，現北科大"
+      },
+      {
+        "school": "政治大學公企班",
+        "note": ""
+      },
+      {
+        "school": "北科大工學名譽博士",
+        "note": ""
+      }
+    ],
+    "current_positions": [
+      "億光電子董事長兼總經理",
+      "泰谷光電董事長、億光智能科技董事長"
+    ],
+    "honors": [
+      "北科大89年傑出校友（2000年）",
+      "日亞化專利戰美國最高法院勝訴（2018年）"
+    ],
+    "career_milestones": [
+      {
+        "year": "1972",
+        "event": "台北工專畢業，進入TRW/光寶工作"
+      },
+      {
+        "year": "1983.5.28",
+        "event": "創立億光電子，初期資本500萬元"
+      },
+      {
+        "year": "1990",
+        "event": "獲夏普代工訂單，奠定龍頭地位"
+      },
+      {
+        "year": "1999.11.4",
+        "event": "億光台灣證交所上市（2393）"
+      }
+    ],
+    "philosophy": {
+      "title": "核心經營哲學",
+      "quotes": [
+        "「我在LED界，是沒有朋友的！」——競爭激進、不留情面",
+        "「能讓競爭對手緊張，讓同業抱怨，我都覺得很光榮！」",
+        "軍事化紀律｜成本控制極致｜良率標準99.9%"
+      ]
+    },
+    "source": "來源：億光年報、天下雜誌、今周刊、LEDinside、北科大校訊"
+  },
+  "friend_circles": {
+    "overview_cards": [
+      {
+        "id": 1,
+        "title": "核心圈",
+        "subtitle": "創業夥伴與交惡對象",
+        "people": "簡文秀🟢、日亞化🔴、丁憲治🔴"
+      },
+      {
+        "id": 2,
+        "title": "企業圈",
+        "subtitle": "董事會與經營團隊",
+        "people": "葉丁瑋、周博文、陳良基等"
+      },
+      {
+        "id": 3,
+        "title": "協會與政商圈",
+        "subtitle": "TOSIA/億光文化基金會",
+        "people": "汪秉龍、徐耀昌等"
+      },
+      {
+        "id": 4,
+        "title": "政策與產業推手圈",
+        "subtitle": "LED產業領袖",
+        "people": "李秉傑🟡、宋恭源🔴等"
+      },
+      {
+        "id": 5,
+        "title": "學術校友圈",
+        "subtitle": "北科大校友系統",
+        "people": "王錫福、傑出校友群"
+      },
+      {
+        "id": 6,
+        "title": "思想與論壇引路人圈",
+        "subtitle": "經營理念與啟發者",
+        "people": "簡文秀、張炳煌等"
+      },
+      {
+        "id": 7,
+        "title": "媒體與公開平台圈",
+        "subtitle": "重要曝光與訴訟",
+        "people": "日亞化專利戰、首爾半導體"
+      },
+      {
+        "id": 8,
+        "title": "必須迴避對象",
+        "subtitle": "⚠️ 高風險名單",
+        "people": "日亞化、丁憲治、宋恭源等10人"
+      }
+    ],
+    "core_circle": {
+      "title": "核心圈  創業夥伴與交惡對象（負向關係密度極高）",
+      "positive": [
+        {
+          "name": "簡文秀",
+          "position": "聲樂家/億光文化基金會董事長",
+          "relation": "🟢正向",
+          "detail": "2005年結婚之妻，每年捐助弱勢200萬元 ✅優先引薦"
+        }
+      ],
+      "negative": [
+        {
+          "name": "日亞化學",
+          "position": "日本LED龍頭（小川英治）",
+          "relation": "🔴負向",
+          "detail": "纏訟近20年專利戰 ❌絕對迴避"
+        },
+        {
+          "name": "丁憲治",
+          "position": "億光前總經理",
+          "relation": "🔴負向",
+          "detail": "相識30年夥伴背叛，挪用公款入獄 ❌絕對迴避"
+        }
+      ],
+      "source": "來源：今周刊、天下雜誌、科技新報、法院判決書"
+    },
+    "business_circle": {
+      "title": "企業圈  億光電子董事會與經營團隊",
+      "board": [
+        {
+          "name": "葉寅夫",
+          "position": "董事長兼總經理",
+          "relation": "🟢"
+        },
+        {
+          "name": "葉丁瑋",
+          "position": "副總經理暨董事（長子）",
+          "relation": "🟢"
+        }
+      ],
+      "management": [
+        {
+          "name": "盧俊侑",
+          "position": "會計主管暨公司治理主管"
+        },
+        {
+          "name": "陳儀真",
+          "position": "副總經理"
+        }
+      ],
+      "source": "來源：億光公司治理頁面、公開資訊觀測站、中央社"
+    },
+    "association_circle": {
+      "title": "協會與政商圈  TOSIA與億光文化基金會",
+      "sections": [
+        {
+          "section_title": "台灣光電暨化合物半導體產業協會（TOSIA）",
+          "description": "葉寅夫角色：理事（第一至六屆），第七屆起改由億光代表人擔任",
+          "people": [
+            {
+              "name": "汪秉龍",
+              "position": "宏齊科技董事長/TOSIA理事長",
+              "relation": "🟢正向"
+            }
+          ]
+        }
+      ],
+      "source": "來源：TOSIA官網、億光文化基金會、自由時報"
+    },
+    "policy_circle": {
+      "title": "政策與產業推手圈  LED產業領袖關係總覽",
+      "people": [
+        {
+          "name": "李秉傑",
+          "position": "前晶電董事長",
+          "domain": "LED上游",
+          "relation": "🟡中性",
+          "detail": "曾任晶電董事長近10年，供應鏈關係"
+        }
+      ],
+      "early_relations": "早期關係（現已疏遠）：顧筑光⚪、石修⚪...",
+      "source": "來源：今周刊、天下雜誌、工商時報"
+    },
+    "academic_circle": {
+      "title": "學術校友圈  國立台北科技大學（前台北工專）",
+      "education_bg": [
+        "國立台北工專電子科（1972年畢業）",
+        "政治大學企業家經營管理研究班",
+        "北科大工學名譽博士"
+      ],
+      "school_contribution": [
+        "2000年：獲頒北科大89年傑出校友",
+        "2011年：捐贈1億元興建「億光大樓」"
+      ],
+      "alumni": [
+        {
+          "name": "王錫福",
+          "position": "國立台北科技大學校長",
+          "relation": "🟢正向",
+          "detail": "共同出席校園活動"
+        }
+      ],
+      "extra_note": "葉寅夫曾提及：「老師再三勸我穩守代工...」",
+      "source": "來源：北科大校訊、億光年報、經濟日報"
+    },
+    "thought_leaders": {
+      "title": "思想與論壇引路人圈  經營理念與啟發者",
+      "people": [
+        {
+          "name": "簡文秀",
+          "position": "聲樂家/億光文化基金會董事長",
+          "relation": "🟢正向",
+          "detail": "最重要支持力量"
+        }
+      ],
+      "quotes": [
+        "「我在LED界，是沒有朋友的！」",
+        "「能讓競爭對手緊張，讓同業抱怨，我都覺得很光榮！」",
+        "「結果比過程重要。」"
+      ],
+      "source": "來源：工商時報CEO專訪、天下雜誌、LEDinside"
+    },
+    "media_circle": {
+      "title": "媒體與公開平台圈  重要曝光與訴訟",
+      "positive_events": [
+        {
+          "time": "2000年",
+          "media": "北科大",
+          "nature": "🟢正面",
+          "summary": "獲頒89年傑出校友獎"
+        }
+      ],
+      "negative_events": [
+        {
+          "time": "2006年",
+          "media": "高等法院",
+          "nature": "🔴負面",
+          "summary": "丁憲治業務侵占罪判刑"
+        }
+      ],
+      "source": "來源：經濟日報、科技新報、中央社、法院判決書"
+    },
+    "avoidance": {
+      "title": "必須迴避對象與引薦建議",
+      "avoid_list": [
+        {
+          "name": "日亞化學相關人員",
+          "position": "日本LED龍頭",
+          "reason": "專利訴訟近20年"
+        }
+      ],
+      "recommend_list": [
+        {
+          "name": "簡文秀",
+          "position": "聲樂家/基金會董事長",
+          "method": "公益音樂會、慈善活動"
+        }
+      ],
+      "source": "來源：今周刊、天下雜誌、法院判決、億光年報"
+    }
+  },
+  "family": {
+    "family_tree_image_path": null,
+    "members_detail": [
+      {
+        "slide_title": "核心成員介紹 - 配偶",
+        "profiles": [
+          {
+            "subtitle": "現任配偶：簡文秀",
+            "table_data": [
+              [
+                "姓名",
+                "簡文秀"
+              ],
+              [
+                "婚姻",
+                "2005年與葉寅夫結婚"
+              ],
+              [
+                "出生",
+                "12月7日（宜蘭縣人）"
+              ]
+            ],
+            "achievements": [
+              "1989年美國老布希總統就職音樂會演出",
+              "2021年捐贈2000萬元予國北教大"
+            ]
+          }
+        ],
+        "source": "資料來源：維基百科（簡文秀） | 今周刊 | Yahoo新聞"
+      }
+    ],
+    "business_map": {
+      "title": "家族企業版圖",
+      "family_roles": [
+        {
+          "member": "葉寅夫",
+          "relation": "本人",
+          "position": "董事長兼總經理",
+          "involvement": "創辦人、核心領導"
+        }
+      ],
+      "investment_companies": [
+        {
+          "company": "鑫旺國際投資有限公司",
+          "representative": "葉丁瑋",
+          "note": "法人董事代表"
+        }
+      ],
+      "source": "資料來源：億光電子年報 | 公開資訊觀測站 | 經濟部商業司"
+    },
+    "tree_data": [
+      {
+        "generation": "G0",
+        "members": [
+          {
+            "name": "父親姓名",
+            "relation": "父親",
+            "title": "現職或N/A",
+            "gender": "M"
+          },
+          {
+            "name": "母親姓名",
+            "relation": "母親",
+            "title": "現職或N/A",
+            "gender": "F"
+          }
+        ]
+      },
+      {
+        "generation": "G1",
+        "members": [
+          {
+            "name": "(主角姓名)",
+            "relation": "本人",
+            "title": "(主要職稱)",
+            "gender": "M"
+          },
+          {
+            "name": "(配偶姓名)",
+            "relation": "配偶",
+            "title": "(職稱)",
+            "gender": "F"
+          },
+          {
+            "name": "(兄弟姓名)",
+            "relation": "弟弟",
+            "title": "(職稱)",
+            "gender": "M"
+          }
+        ]
+      },
+      {
+        "generation": "G2",
+        "members": [
+          {
+            "name": "(子女姓名)",
+            "relation": "長子",
+            "title": "(職稱)",
+            "gender": "M"
+          }
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "title": "家族成員及企業版圖",
+    "positive": [
+      "白手起家，創業精神典範",
+      "接班佈局清晰（葉丁瑋）"
+    ],
+    "risks": [
+      "葉寅夫已74歲，接班時程",
+      "家族資訊高度不透明"
+    ],
+    "tracking": [
+      "葉丁瑋接班進程",
+      "億光股東會人事異動"
+    ],
+    "conclusion": "葉寅夫家族展現台灣第一代科技創業者向第二代過渡的典型特徵...",
+    "source": "資料來源：本報告綜合億光電子年報、今周刊、工商時報、維基百科等來源"
+  },
+  "_source_format_note": "來源可以是字串(舊格式)或陣列(新格式): [{\"title\":\"文章標題\",\"url\":\"https://...\"}]"
+}
