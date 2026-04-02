@@ -1,0 +1,10 @@
+﻿{
+  "name": "stb-research-marketplace",
+  "description": "台灣董事學會 AI 研究工具包",
+  "plugins": [
+    {
+      "name": "stb-research",
+      "path": "."
+    }
+  ]
+}
