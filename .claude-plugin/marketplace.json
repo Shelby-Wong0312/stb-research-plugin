@@ -1,10 +1,17 @@
 ﻿{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "stb-research-marketplace",
+  "version": "1.0.0",
   "description": "台灣董事學會 AI 研究工具包",
+  "owner": {
+    "name": "STB AI Team"
+  },
   "plugins": [
     {
       "name": "stb-research",
-      "path": "."
+      "description": "企業深度研究、人物網絡報告、Screening Note",
+      "source": "./",
+      "category": "research"
     }
   ]
 }
