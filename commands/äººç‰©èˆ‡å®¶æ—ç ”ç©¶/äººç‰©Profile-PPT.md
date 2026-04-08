@@ -1,8 +1,6 @@
-﻿---
+---
 description: 人物 Profile PPT — 輸入人名，自動生成 LP Profile PPT（朋友圈 + 家族樹 + 企業版圖）
 ---
-
-# 人物 Profile PPT
 
 請針對 "$ARGUMENTS" 生成一份完整的人物 Profile PPT，包含：
 
