@@ -3,9 +3,7 @@
   "name": "stb-research-marketplace",
   "version": "2.0.0",
   "description": "台灣董事學會 AI 研究工具包",
-  "owner": {
-    "name": "STB AI Team"
-  },
+  "owner": { "name": "STB AI Team" },
   "plugins": [
     {
       "name": "stb-research",
